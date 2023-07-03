@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/liva/examplesite/"
 languageCode = "en-us"
-title = "Liva | Personal blog template"
-theme = "liva-hugo"
+title = "Pisa | Comunity Blog"
+theme = "Pisa-Blog"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
@@ -90,7 +90,7 @@ mobile = "0124857985320"
 email = "demo@email.com"
 location = "Dhaka, Bangladedsh"
 # copyright
-copyright = "| copyright &copy; 2021 [Themefisher](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2023 Pisa-Blog All Rights Reserved |"
 
 # Preloader
 [params.preloader]
